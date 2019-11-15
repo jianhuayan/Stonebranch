@@ -1,4 +1,5 @@
-﻿import csv
+#!/usr/bin/python3
+import csv
 
 infile1 = 'CUSTOMER_orig.csv'
 infile2 = 'INVOICE_orig.csv'
