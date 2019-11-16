@@ -1,2 +1,0 @@
-# Stonebranch
-technical assesment
